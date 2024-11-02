@@ -121,5 +121,26 @@ a{
     border-radius: 10px;
 }
 
+.inspiration-container{
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    padding: 48px;
+}
 
+.insp-box1{
+    display: flex;
+    align-self: center;
+    font-size: 36px;
+    width: 800px;
+    flex-grow: 1;
+    color: #1F2937;
+    font-style: italic;
+    font-weight: lighter;
+}
 
+.insp-box2{
+    display: flex;
+    margin: auto;
+    font-weight: 900;
+}
