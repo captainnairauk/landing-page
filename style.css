@@ -144,3 +144,39 @@ a{
     margin: auto;
     font-weight: 900;
 }
+
+.cta-container-parent{
+    display: flex;
+    background-color: white;
+    padding: 48px;
+}
+
+.cta-container{
+    display: flex;
+    background-color: #3882FE;
+    flex: 1;
+    padding: 48px;
+    justify-content: space-around;
+}
+
+.cta-text1{
+    font-weight: 900;
+    color: white;
+}
+
+.cta-text2{
+    color: white;
+}
+
+.cta-box2 button{
+    background-color: #3882FE;
+    color: white;
+    padding: 4px;
+    width: 100px;
+    border-radius: 5px;
+    border: 1px solid white;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+
