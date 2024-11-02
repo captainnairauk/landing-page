@@ -179,4 +179,11 @@ a{
     font-weight: bold;
 }
 
-
+.footer{
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    padding: 32px;
+    color: white;
+    align-items: center;
+}
